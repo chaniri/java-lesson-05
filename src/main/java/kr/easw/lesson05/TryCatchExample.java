@@ -2,10 +2,8 @@ package kr.easw.lesson05;
 
 import java.util.Scanner;
 
-
 /**
  * 해당 클래스는 try-catch문을 사용한 예제입니다.
- *
  *
  * try-catch문이란, try 블럭으로 시작하여 catch 블럭으로 끝나는 구문입니다.
  * try 블럭 안에서 예상치 못한 오류(예외)가 발생한 경우, catch 블럭에 어떠한 예외가 발생했는지를 확인하고, 이에 대한 처리를 할 수 있습니다.
